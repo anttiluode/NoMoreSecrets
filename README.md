@@ -53,6 +53,8 @@ We train a **Resonant Cortex Network (CVNN)** to predict pixel values from \((x,
 
 ---
 
+![300k](300k.png)  
+
 ## 📊 Results
 
 - **10,000 Epochs** – Fundamental frequency detected (directional blur)
